@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	position: relative;
+}
+
+div img {
+	height: 95px;
+	width: 269px;
+	margin: 150px auto;
+}
+
+#texto {
+
+}
+
+input {
+	font-size: 18px;
+}
